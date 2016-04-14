@@ -1,10 +1,16 @@
 # FEArcade
 
-FEArcade is a Frogger-style browser-based game created for the Udacity Front End Developer nano degree.
+FEArcade is a Frogger-style browser-based game created as a project for the Udacity Front End Developer nano degree.
 
 ## Installation
 
-There are no required installations - this will run in any modern browser with JavaScript enabled (which is the default setting).
+- [Download the zip file](https://github.com/sherpin42/FEArcade/archive/master.zip) from Github.
+- Unzip or extract the file into a folder on your desktop computer.
+- Double-click on the "index.html" file in your folder in order to open up the game in your favourite browser.
+
+### Software requirements
+
+This game will work in any modern browser with JavaScript enabled (which is the default setting). It is unlikely you will need to install anything to get it running.
 
 ## Usage
 
